@@ -89,11 +89,12 @@ The pipeline is fully compatible with the GQA annotation format. Any GQA split o
 ## Citation
 
 ```bibtex
-@inproceedings{hodemon2026holiground,
-  title={HoliGround: Holistic Assessment for Grounded Chain-of-Thought},
-  author={Hodemon, Tom and Chaouch, Mohamed and Tuo, Aboubacar and Loesch, Angelique},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={11516--11522},
-  year={2026}
+@InProceedings{Hodemon_2026_CVPR,
+    author    = {Hodemon, Tom and Chaouch, Mohamed and Tuo, Aboubacar and Loesch, Angelique},
+    title     = {HoliGround: Holistic Assessment for Grounded Chain-of-Thought},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {11516-11522}
 }
 ```
